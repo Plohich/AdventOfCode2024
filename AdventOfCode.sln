@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode-202414", "Adve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode-202415", "AdventOfCode-202415\AdventOfCode-202415.csproj", "{168B97F0-320A-4ECA-BD3C-A42FFC3DA234}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSortExercise", "QuickSortExercise\QuickSortExercise.csproj", "{4FC8ED9A-6DC4-4A4A-B1BE-64A08C024BC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{168B97F0-320A-4ECA-BD3C-A42FFC3DA234}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{168B97F0-320A-4ECA-BD3C-A42FFC3DA234}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{168B97F0-320A-4ECA-BD3C-A42FFC3DA234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC8ED9A-6DC4-4A4A-B1BE-64A08C024BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC8ED9A-6DC4-4A4A-B1BE-64A08C024BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC8ED9A-6DC4-4A4A-B1BE-64A08C024BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC8ED9A-6DC4-4A4A-B1BE-64A08C024BC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -15,6 +15,7 @@
       <ProjectReference Include="..\AdventOfCode-202411\AdventOfCode-202411.csproj" />
       <ProjectReference Include="..\AdventOfCode-202414\AdventOfCode-202414.csproj" />
       <ProjectReference Include="..\AdventOfCode-202415\AdventOfCode-202415.csproj" />
+      <ProjectReference Include="..\QuickSortExercise\QuickSortExercise.csproj" />
     </ItemGroup>
 
     <ItemGroup>
